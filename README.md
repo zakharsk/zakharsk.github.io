@@ -12,7 +12,7 @@
 ## Projects
 - [StewartPlatformTS](https://github.com/zakharsk/StewartPlatformTS)
     - [Stewart platform](https://en.wikipedia.org/wiki/Stewart_platform) built with [quaternions](https://en.wikipedia.org/wiki/Quaternion)
-    - TypeScript + Tree.js
+    - TypeScript + Three.js
 
 - [mattermost-jira](https://github.com/zakharsk/mattermost-jira)
     - [Mattermost](https://mattermost.com/) connector for [JIRA](https://www.atlassian.com/software/jira)
